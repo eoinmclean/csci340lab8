@@ -1,4 +1,10 @@
+using Microsoft.EntityFrameworkCore;
+using RazorApp.Data;
+
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<RazorAppContext>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("RazorAppContext") 
+    ?? throw new InvalidOperationException("Connection string 'RazorAppContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddRazorPages();
