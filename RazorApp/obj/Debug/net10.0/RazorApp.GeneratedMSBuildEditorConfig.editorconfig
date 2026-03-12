@@ -46,6 +46,26 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/Users/PC/Desktop/CSCI340/csci340lab8/RazorApp/Pages/Workouts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/CSCI340/csci340lab8/RazorApp/Pages/Workouts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/CSCI340/csci340lab8/RazorApp/Pages/Workouts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/CSCI340/csci340lab8/RazorApp/Pages/Workouts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/PC/Desktop/CSCI340/csci340lab8/RazorApp/Pages/Workouts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcV29ya291dHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/PC/Desktop/CSCI340/csci340lab8/RazorApp/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
