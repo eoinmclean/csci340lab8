@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\RazorApp\\RazorApp.csproj": {}
+    "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\Razorapp\\RazorApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\RazorApp\\RazorApp.csproj": {
+    "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\Razorapp\\RazorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\RazorApp\\RazorApp.csproj",
+        "projectUniqueName": "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\Razorapp\\RazorApp.csproj",
         "projectName": "RazorApp",
-        "projectPath": "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\RazorApp\\RazorApp.csproj",
+        "projectPath": "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\Razorapp\\RazorApp.csproj",
         "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\RazorApp\\obj\\",
+        "outputPath": "C:\\Users\\PC\\Desktop\\CSCI340\\csci340lab8\\Razorapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
